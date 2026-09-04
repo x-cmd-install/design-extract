@@ -1,0 +1,65 @@
+about:
+  description: Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.
+  license: MIT
+  homepage: https://www.designlang.app
+  head: a9e832e
+  archived: false
+  latestVersion: v13.2.0
+  collectedAt: 2026-09-04T04:54:22Z
+timeline:
+  created: 2026-04-15
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-31
+popularity:
+  star: 4026
+  watcher: 13
+  fork: 345
+  release: 33
+  contributor: 7
+  pullRequest: 9
+  issue: 41
+language:
+  HTML: 3286406
+  JavaScript: 2349307
+  CSS: 1537502
+  Swift: 59479
+  Dart: 58706
+  Kotlin: 40602
+  TypeScript: 13739
+  PHP: 9000
+  Shell: 3632
+  Dockerfile: 696
+totalLine: 7359069
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 1
+    mergedPR: 4
+    openPR: 0
+    closedIssue: 0
+    openIssue: 3
+    commit: 17
+  last90d:
+    since: 2026-06-06
+    release: 1
+    mergedPR: 31
+    openPR: 0
+    closedIssue: 1
+    openIssue: 3
+    commit: 166
+  last180d:
+    since: 2026-03-08
+    release: 33
+    mergedPR: 105
+    openPR: 1
+    closedIssue: 20
+    openIssue: 21
+    commit: 332
+  last360d:
+    since: 2025-09-09
+    release: 33
+    mergedPR: 105
+    openPR: 1
+    closedIssue: 20
+    openIssue: 21
+    commit: 332
