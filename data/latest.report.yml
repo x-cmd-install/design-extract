@@ -7,7 +7,7 @@ about:
   latestVersion: "v13.2.0"
   latestRelease: "v13.2.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:30:21Z
+  collectedAt: 2026-09-09T18:35:46Z
 timeline:
   created: 2026-04-15
   lastCommit: 2026-09-08
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-31
   lastPrerelease: 
 popularity:
-  star: 4062
+  star: 4065
   watcher: 13
   fork: 348
   release: 33
@@ -92,7 +92,7 @@ total:
   commit: 389
 ---
 path: /home/runner/.x-repo/github.com/Manavarya09/design-extract
-collectedAt: 2026-09-09T04:30:22Z
+collectedAt: 2026-09-09T18:35:49Z
 loc:
   Json:
     code: 105424
