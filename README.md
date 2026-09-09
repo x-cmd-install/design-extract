@@ -7,7 +7,7 @@ Extract any website's complete design system with one command. DTCG tokens, sema
 - **Latest release**: `v13.2.0` (2026-08-31)
 - **Last commit**: 2026-09-08
 - **License**: MIT
-- **Stars**: 4062 · **Forks**: 348 · **Open issues**: 41 · **Contributors**: 7
+- **Stars**: 4065 · **Forks**: 348 · **Open issues**: 41 · **Contributors**: 7
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/design-extract> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:30:25Z._
+_Last regenerated: 2026-09-09T18:35:53Z._
