@@ -4,7 +4,7 @@
 
 Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.
 
-![design-extract](https://repo.x-cmd.io/design-extract.svg)
+![design-extract](https://repo.x-cmd.io/design-extract.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,10 @@ x install design-extract
 
 - **最新版本**: `v13.2.0` (2026-08-31)
 - **最近提交**: 2026-09-10
-- **发布时间**: 2026-08-31T06:10:43Z
 
 ## 流行度
 
-- **Star**: 4,068 · **Fork**: 348 · **开放 issue**: 41 · **贡献者**: 7
+- **Star**: 4,076 · **Fork**: 349 · **开放 issue**: 41 · **贡献者**: 7
 
 ## 累计统计
 
@@ -61,4 +60,4 @@ design-extract 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/in
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:31:33Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:17:22Z._
