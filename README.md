@@ -12,6 +12,18 @@ Extract any website's complete design system with one command. DTCG tokens, sema
 x install design-extract
 ```
 
+## Code insight
+
+Total: **241,628** lines of code across **1139** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Json | 105,424 | 0 | 0 | 352 |
+| JavaScript | 54,240 | 5,952 | 4,270 | 399 |
+| Html | 42,054 | 362 | 7,652 | 146 |
+| Css | 32,842 | 1,857 | 1,485 | 218 |
+| Swift | 1,349 | 168 | 144 | 24 |
+
 ## Source
 
 - **Upstream**: <https://github.com/Manavarya09/design-extract>
@@ -25,7 +37,7 @@ x install design-extract
 
 ## Popularity
 
-- **Stars**: 4,076 · **Forks**: 349 · **Open issues**: 41 · **Contributors**: 7
+- **Stars**: 4,077 · **Forks**: 349 · **Open issues**: 41 · **Contributors**: 7
 
 ## Totals (cumulative)
 
@@ -35,21 +47,12 @@ x install design-extract
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 6 | 0 | 0 | 3 | 19 |
-| 90d | 2026-06-12 | 1 | 30 | 0 | 0 | 3 | 154 |
-| 360d | 2025-09-15 | 33 | 107 | 1 | 20 | 21 | 334 |
-
-## Code size
-
-Total: **241,628** lines of code across **1139** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Json | 105,424 | 0 | 0 | 352 |
-| JavaScript | 54,240 | 5,952 | 4,270 | 399 |
-| Html | 42,054 | 362 | 7,652 | 146 |
-| Css | 32,842 | 1,857 | 1,485 | 218 |
-| Swift | 1,349 | 168 | 144 | 24 |
+| 30d | 2026-08-12 | 1 | 6 | 0 | 0 | 3 | 19 |
+| last60d | 2026-07-13 | 1 | 6 | 0 | 0 | 3 | 19 |
+| 90d | 2026-06-13 | 1 | 29 | 0 | 0 | 3 | 154 |
+| last180d | 2026-03-15 | 33 | 107 | 1 | 20 | 21 | 334 |
+| 360d | 2025-09-16 | 33 | 107 | 1 | 20 | 21 | 334 |
+| last720d | 2024-09-21 | 33 | 107 | 1 | 20 | 21 | 390 |
 
 ## Improve this data
 
@@ -60,4 +63,4 @@ Install metadata for design-extract lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:17:21Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:11:38Z._
