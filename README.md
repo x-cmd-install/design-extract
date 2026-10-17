@@ -37,22 +37,22 @@ Total: **244,062** lines of code across **1158** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,244 · **Forks**: 361 · **Open issues**: 43 · **Contributors**: 7
+- **Stars**: 4,246 · **Forks**: 361 · **Open issues**: 42 · **Contributors**: 7
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 143 · **Open PRs**: 4 · **Closed issues**: 21 · **Open issues**: 22 · **Commits**: 429
+- **Releases**: 36 · **Merged PRs**: 143 · **Open PRs**: 4 · **Closed issues**: 21 · **Open issues**: 21 · **Commits**: 429
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 3 | 8 | 2 | 0 | 1 | 13 |
-| last60d | 2026-08-17 | 4 | 16 | 2 | 1 | 4 | 53 |
-| 90d | 2026-07-18 | 4 | 16 | 2 | 1 | 4 | 53 |
-| last180d | 2026-04-19 | 33 | 100 | 3 | 10 | 22 | 313 |
-| 360d | 2025-10-21 | 36 | 126 | 3 | 21 | 22 | 368 |
-| last720d | 2024-10-26 | 36 | 126 | 3 | 21 | 22 | 429 |
+| 30d | 2026-09-17 | 3 | 8 | 2 | 0 | 0 | 13 |
+| last60d | 2026-08-18 | 4 | 16 | 2 | 1 | 3 | 53 |
+| 90d | 2026-07-19 | 4 | 16 | 2 | 1 | 3 | 53 |
+| last180d | 2026-04-20 | 33 | 103 | 3 | 10 | 21 | 313 |
+| 360d | 2025-10-22 | 36 | 129 | 3 | 21 | 21 | 368 |
+| last720d | 2024-10-27 | 36 | 129 | 3 | 21 | 21 | 429 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for design-extract lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:22:09Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:12:54Z._
