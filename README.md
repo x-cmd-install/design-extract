@@ -37,7 +37,7 @@ Total: **244,188** lines of code across **1159** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,308 · **Forks**: 358 · **Open issues**: 42 · **Contributors**: 8
+- **Stars**: 4,327 · **Forks**: 363 · **Open issues**: 42 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **244,188** lines of code across **1159** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 3 | 10 | 2 | 0 | 0 | 10 |
-| last60d | 2026-08-23 | 4 | 17 | 2 | 1 | 2 | 48 |
-| 90d | 2026-07-24 | 4 | 18 | 2 | 1 | 3 | 59 |
-| last180d | 2026-04-25 | 22 | 114 | 4 | 8 | 20 | 282 |
-| 360d | 2025-10-27 | 36 | 144 | 4 | 22 | 20 | 374 |
-| last720d | 2024-11-01 | 36 | 144 | 4 | 22 | 20 | 436 |
+| 30d | 2026-09-23 | 3 | 6 | 2 | 0 | 0 | 10 |
+| last60d | 2026-08-24 | 4 | 15 | 2 | 1 | 0 | 48 |
+| 90d | 2026-07-25 | 4 | 18 | 2 | 1 | 3 | 59 |
+| last180d | 2026-04-26 | 21 | 113 | 4 | 8 | 20 | 282 |
+| 360d | 2025-10-28 | 36 | 144 | 4 | 22 | 20 | 374 |
+| last720d | 2024-11-02 | 36 | 144 | 4 | 22 | 20 | 436 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for design-extract lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:30:52Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:36:03Z._
