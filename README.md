@@ -14,13 +14,13 @@ x install design-extract
 
 ## Code insight
 
-Total: **244,696** lines of code across **1160** files in the top 5 languages.
+Total: **248,809** lines of code across **1195** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 106,622 | 0 | 0 | 356 |
-| JavaScript | 56,073 | 6,097 | 4,524 | 416 |
-| Html | 42,054 | 362 | 7,652 | 146 |
+| Json | 108,962 | 0 | 0 | 366 |
+| JavaScript | 57,820 | 6,230 | 4,661 | 438 |
+| Html | 42,080 | 362 | 7,652 | 149 |
 | Css | 32,842 | 1,857 | 1,485 | 218 |
 | Swift | 1,349 | 168 | 144 | 24 |
 
@@ -33,26 +33,26 @@ Total: **244,696** lines of code across **1160** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v13.3.2` (2026-09-23)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-04
 
 ## Popularity
 
-- **Stars**: 4,494 · **Forks**: 387 · **Open issues**: 42 · **Contributors**: 11
+- **Stars**: 4,677 · **Forks**: 395 · **Open issues**: 42 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 150 · **Open PRs**: 2 · **Closed issues**: 26 · **Open issues**: 16 · **Commits**: 450
+- **Releases**: 36 · **Merged PRs**: 153 · **Open PRs**: 2 · **Closed issues**: 26 · **Open issues**: 16 · **Commits**: 453
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 9 | 2 | 0 | 0 | 14 |
-| last60d | 2026-09-05 | 3 | 19 | 2 | 1 | 0 | 50 |
-| 90d | 2026-08-06 | 4 | 23 | 2 | 2 | 2 | 68 |
-| last180d | 2026-05-08 | 15 | 108 | 2 | 10 | 3 | 273 |
-| 360d | 2025-11-09 | 36 | 149 | 2 | 26 | 16 | 383 |
-| last720d | 2024-11-14 | 36 | 149 | 2 | 26 | 16 | 450 |
+| 30d | 2026-10-06 | 0 | 11 | 2 | 0 | 0 | 17 |
+| last60d | 2026-09-06 | 3 | 21 | 2 | 1 | 0 | 53 |
+| 90d | 2026-08-07 | 4 | 25 | 2 | 2 | 2 | 71 |
+| last180d | 2026-05-09 | 14 | 107 | 2 | 10 | 3 | 276 |
+| 360d | 2025-11-10 | 36 | 151 | 2 | 26 | 16 | 386 |
+| last720d | 2024-11-15 | 36 | 151 | 2 | 26 | 16 | 453 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for design-extract lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:07:47Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:30:19Z._
