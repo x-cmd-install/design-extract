@@ -14,7 +14,7 @@ x install design-extract
 
 ## Code insight
 
-Total: **248,901** lines of code across **1196** files in the top 5 languages.
+Total: **248,952** lines of code across **1196** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -33,26 +33,26 @@ Total: **248,901** lines of code across **1196** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v13.3.2` (2026-09-23)
-- **Last commit**: 2026-11-17
+- **Last commit**: 2026-11-18
 
 ## Popularity
 
-- **Stars**: 5,128 · **Forks**: 427 · **Open issues**: 44 · **Contributors**: 11
+- **Stars**: 5,154 · **Forks**: 427 · **Open issues**: 44 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 158 · **Open PRs**: 2 · **Closed issues**: 26 · **Open issues**: 18 · **Commits**: 458
+- **Releases**: 36 · **Merged PRs**: 160 · **Open PRs**: 2 · **Closed issues**: 26 · **Open issues**: 18 · **Commits**: 460
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 12 | 2 | 0 | 3 | 12 |
-| last60d | 2026-09-18 | 3 | 22 | 2 | 0 | 3 | 36 |
-| 90d | 2026-08-19 | 4 | 30 | 2 | 2 | 4 | 75 |
-| last180d | 2026-05-21 | 5 | 74 | 2 | 4 | 5 | 228 |
-| 360d | 2025-11-22 | 36 | 156 | 2 | 26 | 18 | 391 |
-| last720d | 2024-11-27 | 36 | 156 | 2 | 26 | 18 | 458 |
+| 30d | 2026-10-20 | 0 | 13 | 2 | 0 | 3 | 14 |
+| last60d | 2026-09-20 | 3 | 24 | 2 | 0 | 3 | 38 |
+| 90d | 2026-08-21 | 4 | 32 | 2 | 2 | 4 | 77 |
+| last180d | 2026-05-23 | 4 | 75 | 2 | 4 | 5 | 230 |
+| 360d | 2025-11-24 | 36 | 158 | 2 | 26 | 18 | 393 |
+| last720d | 2024-11-29 | 36 | 158 | 2 | 26 | 18 | 460 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for design-extract lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T07:57:25Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:12:06Z._
