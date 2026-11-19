@@ -40,5 +40,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/Manavarya09/design-extract/tarball/v13.3.2",
   "zipball_url": "https://api.github.com/repos/Manavarya09/design-extract/zipball/v13.3.2",
-  "body": "\n**The live demo reads sites again.**\n\n- **Fixed: every live read on designlang.app hung on \"walking the DOM\"**\n  until the function was killed. In the single-process Chromium that runs\n  on serverless, a screencast still running when CSS coverage was read\n  deadlocked `stopCSSCoverage`. The screencast now stops once the page has\n  settled, before coverage is read. Only callers that pass\n  `onScreencastFrame` are affected; the CLI never ran a screencast.\n- **Website:** results are cached again, so repeat reads and the suggestion\n  chips are served without launching a browser.\n\n"
+  "body": "\n**The live demo reads sites again.**\n\n- **Fixed: every live read on designlang.app hung on \"walking the DOM\"**\n  until the function was killed. In the single-process Chromium that runs\n  on serverless, a screencast still running when CSS coverage was read\n  deadlocked `stopCSSCoverage`. The screencast now stops once the page has\n  settled, before coverage is read. Only callers that pass\n  `onScreencastFrame` are affected; the CLI never ran a screencast.\n- **Website:** results are cached again, so repeat reads and the suggestion\n  chips are served without launching a browser.\n\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/Manavarya09/design-extract/releases/394662464/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 1,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
